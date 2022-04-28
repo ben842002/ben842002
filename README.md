@@ -2,19 +2,19 @@
 
 My name is Benjamin Chau and I am currently a student at the University of Rhode Island majoring in computer science! I am extremely passionate about technology and love to build projects and apps.
 
-## 📫 Visit My Website!
+### 📫 Visit My Website!
 https://ben842002.github.io/
 
-## ⚡ Work Experience
+### ⚡ Work Experience
 - Incoming Full-Stack Engineer intern at Fidelity Investments [Rhode Island, Summer 2022]
 - Computer Science Teaching Assistant for CSC 110 - Survey of Computer Science (Python) [URI, Spring 2022]
 
-## 🌱 Interests
+### 🌱 Interests
 - Video Games (League of Legends, Hollow Knight, Stardew Valley)
 - Video Game Development (Unity Game Engine)
 - Web Development 
 
-## 💬 Contact
+### 💬 Contact
 Feel free to contact me!  
 Email: ben842002@uri.edu  
 LinkedIn: https://www.linkedin.com/in/benjamin-chau/

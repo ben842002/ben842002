@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Benjamin Chau and I am currently a student at the University of Rhode Island majoring in computer science! I am extremely passionate about technology and love to build projects and apps.
+My name is Benjamin Chau and I am currently a student at the University of Rhode Island majoring in computer science. I am extremely passionate about technology and love to build projects and apps!
 
 ### 📫 Visit My Website!
 https://ben842002.github.io/

@@ -2,8 +2,7 @@
 
 My name is Benjamin Chau and I am currently a student at the University of Rhode Island majoring in computer science. I am extremely passionate about technology and love to build projects and apps!
 
-### 📫 Visit My Website!
-https://ben842002.github.io/
+📫 Visit My Website! https://ben842002.github.io/
 
 ### ⚡ Work Experience
 - Incoming Full-Stack Engineer intern at Fidelity Investments [Rhode Island, Summer 2022]

@@ -5,7 +5,7 @@ My name is Benjamin Chau and I am currently a student at the University of Rhode
 #### 📫 Visit My Website! https://ben842002.github.io/
 
 ### ⚡ Work Experience
-- Full-Stack Engineer intern at Fidelity Investments [Rhode Island, Summer 2022]
+- Full-Stack Engineer Intern at Fidelity Investments [Rhode Island, Summer 2022]
 - Computer Science Teaching Assistant for CSC 110 - Survey of Computer Science (Python) [URI, Spring 2022]
 
 ### 🌱 Interests

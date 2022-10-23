@@ -5,6 +5,7 @@ My name is Benjamin Chau and I am currently a student at the University of Rhode
 #### Visit My Website! https://ben842002.github.io/
 
 ### Work Experience ⚡
+- Incoming Software Developer Co-op at FM Global [Rhode Island, Spring 2023]
 - Software Engineer Intern at Fidelity Investments [Rhode Island & Massachusetts, Summer 2022]
 - Computer Science Teaching Assistant for CSC 110 - Survey of Computer Science (Python) [URI, Spring 2022]
 

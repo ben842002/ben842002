@@ -11,8 +11,8 @@ My name is Benjamin Chau and I am currently a student at the University of Rhode
 
 ### Interests 💬
 - Video Games (League of Legends, Hollow Knight, Stardew Valley)
-- Video Game Development (Unity Game Engine, C#)
-- Web Development (MongoDB, Express.js, ReactJS, Node.js)
+- Video Game Development (Unity Game Engine with C#)
+- Web Development
 
 ### Contact 📫
 Feel free to contact me!  

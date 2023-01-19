@@ -14,6 +14,9 @@ My name is Benjamin Chau and I am currently a student at the University of Rhode
 - Video Game Development (Unity Game Engine with C#)
 - Web Development
 
+### Current Main Project
+**[Hiragana Seito Defense](https://github.com/ben842002/hiragana-seito-defense)** (Unity2D Japanese Hiragana Typing Game)
+
 ### Contact 📫
 Feel free to contact me!  
 Email: ben842002@uri.edu  

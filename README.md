@@ -15,11 +15,6 @@ My name is Benjamin Chau and I am currently a student at the University of Rhode
 - Video Game Development (Unity Game Engine with C#)
 - Web Development
 
-### Contact 📫
-Feel free to contact me!  
-Email: ben842002@uri.edu  
-LinkedIn: https://www.linkedin.com/in/benjamin-chau/
-
 <!--
 Here are some ideas to get you started:
 
